@@ -1,0 +1,8 @@
+# Default files to ignore for Python projects.
+__pycache__
+.vscode
+.venv
+
+# Extra files to ignore for Python projects.
+/*.json
+/*.py
